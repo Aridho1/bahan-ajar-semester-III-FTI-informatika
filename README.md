@@ -12,7 +12,7 @@ RENCANA PEMBELAJARAN SEMESTER = RPS
 
 \# Structure
 
-
+```bash
 
 bahan-ajar-semester-III-fti-informatika
 
@@ -254,7 +254,7 @@ bahan-ajar-semester-III-fti-informatika
 
 └── index.md
 
-
+```
 
 
 

@@ -22,6 +22,7 @@ git clone https://github.com/Aridho1/bahan-ajar-semester-III-FTI-informatika.git
 
 # Structure
 
+```bash
 bahan-ajar-semester-III-fti-informatika
 ├── 0521-ui-ux-design
 │   ├── RPS_0521_1500.pdf
@@ -142,3 +143,4 @@ bahan-ajar-semester-III-fti-informatika
 ├── assets
 │   └── logo_bsi.png
 └── index.md
+```
