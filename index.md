@@ -12,10 +12,10 @@ Semua bahan ajar bisa didapatkan dari: <a href="https://studentv2.bsi.ac.id/maha
 
 ## Release
 
-[List Release](https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika/releases)
+[List Release](https://github.com/Aridho1/bahan-ajar-semester-III-FTI-informatika/releases)
 
 ## Install
 
 ```bash
-git clone https://github.com/Aridho1/bahan-ajar--semester-2--FTI--Informatika.git
+git clone https://github.com/Aridho1/bahan-ajar-semester-III-FTI-informatika.git
 ```
