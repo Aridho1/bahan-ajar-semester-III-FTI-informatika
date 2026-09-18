@@ -6,7 +6,11 @@ RENCANA PEMBELAJARAN SEMESTER = RPS
 
 
 
+\## GDrive
 
+
+
+\[Bahan Ajar FTI Informatika](https://drive.google.com/drive/folders/12hb-bOO-wMDLkkR0gGdFoEUCoR4bT7Ge?usp=sharing)
 
 
 

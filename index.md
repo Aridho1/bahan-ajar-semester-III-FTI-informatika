@@ -20,6 +20,10 @@ Semua bahan ajar bisa didapatkan dari: <a href="https://studentv2.bsi.ac.id/maha
 git clone https://github.com/Aridho1/bahan-ajar-semester-III-FTI-informatika.git
 ```
 
+## GDrive
+
+[Bahan Ajar FTI Informatika](https://drive.google.com/drive/folders/12hb-bOO-wMDLkkR0gGdFoEUCoR4bT7Ge?usp=sharing)
+
 ## Structure
 
 ```bash
