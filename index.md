@@ -20,7 +20,7 @@ Semua bahan ajar bisa didapatkan dari: <a href="https://studentv2.bsi.ac.id/maha
 git clone https://github.com/Aridho1/bahan-ajar-semester-III-FTI-informatika.git
 ```
 
-# Structure
+## Structure
 
 ```bash
 bahan-ajar-semester-III-fti-informatika
