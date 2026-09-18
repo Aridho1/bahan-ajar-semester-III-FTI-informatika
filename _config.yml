@@ -3,6 +3,6 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
     - jekyll-remote-theme
 
-title: Bahan Ajar Semester 2 Untuk FTI Informatika
-description: Kumpulan bahan ajar semester 2
+title: Bahan Ajar Semester III Untuk FTI Informatika
+description: Kumpulan bahan ajar semester III
 show_downloads: true
